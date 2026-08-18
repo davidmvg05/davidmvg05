@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <strong>Other languages / Outros idiomas:</strong> <a href="README.md">Português</a>
+  🌐 <strong>Other languages:</strong> <a href="README.md">Português</a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Developer** passionate about bringing ideas to life through digital strategies, creative code, and intergalactic interactive experiences.
 
 - 🚀 Focused on Digital Marketing, creative front-end development, and user experience (UX/UI) design.
-- 🎨 Love working with 3D modeling, augmented reality (AR), and creating memorable interfaces.
+- 🎨 3D models, augmented reality (AR), and creating memorable interfaces.
 - 📚 Avid reader and hardware enthusiast (you can check out my PC setup below).
 
 ---
@@ -59,11 +59,11 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Develo
 
 ### 🖥️ [Alfaiate da Web](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Complete development of the brand's website focusing on UX/UI flows, information architecture, and responsive design.
-* **Tech:** HTML5, CSS3, JavaScript, Responsive Design.
+* **Tech:** Wordpress, HTML5, CSS, JavaScript, Design Responsivo.
 
 ### 🏡 [Casas da Paula](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Creation and optimization of the local lodging website in Armação de Pêra. Custom integration of the **TalkGuest** channel manager with the development of an exclusive booking bar.
-* **Tech:** JavaScript, API Integration, UX/UI.
+* **Tech:** Wordpress, Google Antigravity, Integração de APIs, UX/UI.
 
 ### 📈 [BNI Equipas](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Social media management, editorial calendar planning, graphic creation, and digital profile optimization.
@@ -98,8 +98,6 @@ Project focused on alerting and educating mobile device users about social engin
 
 ## 🖥️ My Workspace Setup
 
-As a hardware enthusiast, I configured my own machine to support 3D modeling, rendering, and development:
-
 | Component | Specification |
 | :--- | :--- |
 | **CPU** | AMD Ryzen 5 5600X |
@@ -120,10 +118,8 @@ As a hardware enthusiast, I configured my own machine to support 3D modeling, re
 
 I really enjoy reading in my free time! Here are some of the books that have marked me or that I recommend:
 
-- 🕵️‍♂️ *The Truth About the Harry Quebert Affair* & *The Alaska Sanders Case* (Joël Dicker)
 - 🧩 *The Enigma of Room 622* (Joël Dicker)
-- 🚴‍♂️ *Daqui Ali: De Portugal à África do Sul de Bicicleta* (Jorge Cristovão)
-- 🌏 *Daqui Ali: De Portugal a Singapura por Terra* (Jorge Cristovão)
+- 🕵️‍♂️ *The Truth About the Harry Quebert Affair* & *The Alaska Sanders Case* (Joël Dicker)
 - 🧠 *The Hypnotist* (Lars Kepler)
 - 🦉 *The Murder of Roger Ackroyd* (Agatha Christie)
 - 🌱 *A Life on Our Planet* (David Attenborough)
