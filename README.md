@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o David Gomes! | Hi, I'm David Gomes!
 
 <p align="center">
-  <img src="https://davidmvg05.github.io/Portfolio/logo_portfolio.png" alt="David Gomes Portfolio Logo" width="200"/>
+  <img src="public/logo.png" alt="David Gomes Portfolio Logo" width="200"/>
 </p>
 
 <p align="center">
