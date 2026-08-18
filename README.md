@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o David Gomes! | Hi, I'm David Gomes!
 
 <p align="center">
-  <img src="public/logo.png" alt="David Gomes Portfolio Logo" width="200"/>
+  <img src="./public/logo.png" alt="David Gomes Portfolio Logo" width="200"/>
 </p>
 
 <p align="center">
-  <strong>Creative Developer & 3D Animator | Desenvolvedor Criativo & Animador 3D</strong>
+  <strong>Digital Marketing Specialist & Creative Developer</strong>
 </p>
 
 <p align="center">
@@ -17,11 +17,17 @@
 
 ## 🌌 Sobre Mim | About Me
 
-Bem-vindo ao meu cockpit! Sou um **Desenvolvedor Criativo e Animador 3D** apaixonado por dar vida a ideias através de código limpo, animações fluidas e experiências interativas intergalácticas.
+> **PT:** "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
+>
+> **EN:** *"More of a marketer than a developer... but I love playing with both. 😎 I'm not a programmer. I just have ideas that are too stubborn not to be created. 🤫"*
 
-*Welcome to my cockpit! I am a **Creative Developer and 3D Animator** passionate about bringing ideas to life through clean code, fluid animations, and intergalactic interactive experiences.*
+---
 
-- 🚀 Atualmente focado em desenvolvimento front-end criativo, WebGL/3D interativo e design de experiência de utilizador (UX/UI).
+Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative Developer** apaixonado por dar vida a ideias através de estratégias digitais, código criativo e experiências interativas intergalácticas.
+
+*Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Developer** passionate about bringing ideas to life through digital strategies, creative code, and intergalactic interactive experiences.*
+
+- 🚀 Focado em Marketing Digital, desenvolvimento front-end criativo e design de experiência de utilizador (UX/UI).
 - 🎨 Adoro trabalhar com modelagem 3D, realidade aumentada (AR) e criar interfaces memoráveis.
 - 📚 Leitor ávido e entusiasta de hardware (podes ver o meu setup abaixo).
 
