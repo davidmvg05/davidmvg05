@@ -1,31 +1,31 @@
-# 👋 Olá, eu sou o David Gomes! | Hi, I'm David Gomes!
+# 👋 Olá, eu sou o David Gomes!
 
 <p align="center">
   <img src="./public/logo.png" alt="David Gomes Portfolio Logo" width="200"/>
 </p>
 
 <p align="center">
-  <strong>Digital Marketing Specialist & Creative Developer</strong>
+  <strong>Especialista em Marketing Digital & Creative Developer</strong>
 </p>
 
 <p align="center">
-  <a href="https://davidmvg05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-davidmvg05.github.io%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
+  🌐 <strong>Outros idiomas / Other languages:</strong> <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
+  <a href="https://davidmvg05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-davidmvg05.github.io%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website do Portfólio" /></a>
   <a href="https://linkedin.com/in/david-gomes-creative-developer"><img src="https://img.shields.io/badge/LinkedIn-David%20Gomes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-## 🌌 Sobre Mim | About Me
+## 🌌 Sobre Mim
 
-**PT:** "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
-
-**EN:** *"More of a marketer than a developer... but I love playing with both. 😎 I'm not a programmer. I just have ideas that are too stubborn not to be created. 🤫"*
+> "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
 
 ---
 
 Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative Developer** apaixonado por dar vida a ideias através de estratégias digitais, código criativo e experiências interativas intergalácticas.
-
-*Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Developer** passionate about bringing ideas to life through digital strategies, creative code, and intergalactic interactive experiences.*
 
 - 🚀 Focado em Marketing Digital, desenvolvimento front-end criativo e design de experiência de utilizador (UX/UI).
 - 🎨 Adoro trabalhar com modelagem 3D, realidade aumentada (AR) e criar interfaces memoráveis.
@@ -33,7 +33,7 @@ Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas | Skills & Technologies
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
   <!-- Frontend -->
@@ -55,43 +55,37 @@ Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative 
 
 ---
 
-## 💼 Projetos Profissionais | Professional Projects
+## 💼 Projetos Profissionais
 
 ### 🖥️ [Alfaiate da Web](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-* **PT:** Desenvolvimento completo do website da marca com foco total em fluxos de UX/UI, arquitetura de informação e design responsivo.
-* **EN:** *Complete development of the brand website focusing on UX/UI flows, information architecture, and responsive design.*
-* **Tech:** HTML5, CSS3, JavaScript, Responsive Design.
+Desenvolvimento completo do website da marca com foco total em fluxos de UX/UI, arquitetura de informação e design responsivo.
+* **Tech:** HTML5, CSS3, JavaScript, Design Responsivo.
 
 ### 🏡 [Casas da Paula](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-* **PT:** Criação e otimização do website de alojamento local em Armação de Pêra. Integração personalizada do channel manager **TalkGuest** com desenvolvimento de uma barra de reservas exclusiva.
-* **EN:** *Creation and optimization of the local lodging website in Armação de Pêra. Features a custom integration of the **TalkGuest** channel manager with an exclusive booking bar.*
-* **Tech:** JavaScript, API Integration, UX/UI.
+Criação e otimização do website de alojamento local em Armação de Pêra. Integração personalizada do channel manager **TalkGuest** com desenvolvimento de uma barra de reservas exclusiva.
+* **Tech:** JavaScript, Integração de APIs, UX/UI.
 
 ### 📈 [BNI Equipas](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-* **PT:** Gestão de redes sociais, planeamento de calendários editoriais, criação gráfica e otimização de perfil digital.
-* **EN:** *Social media management, editorial calendar planning, graphic creation, and digital profile optimization.*
-* **Tech:** Social Media Strategy, Graphic Design.
+Gestão de redes sociais, planeamento de calendários editoriais, criação gráfica e otimização de perfil digital.
+* **Tech:** Estratégia de Redes Sociais, Design Gráfico.
 
 ---
 
-## 🎓 Trabalhos Académicos | Academic Works
+## 🎓 Trabalhos Académicos
 
 Aqui estão alguns dos projetos desenvolvidos durante o meu percurso de aprendizagem:
 
 ### 🕶️ [Omega 3D & Metaverso](https://github.com/davidmvg05/Projeto-AR)
-* **PT:** Desenvolvimento de modelos 3D otimizados (como um reposapiés e outros assets), experiências interativas de Realidad Aumentada (AR) integradas em GitHub e showrooms imersivos na plataforma Spatial.
-* **EN:** *Development of optimized 3D models (such as an ottoman and other assets), interactive Augmented Reality (AR) experiences hosted on GitHub, and immersive showrooms on the Spatial metaverse platform.*
+Desenvolvimento de modelos 3D otimizados (como um reposapiés e outros assets), experiências interativas de Realidade Aumentada (AR) integradas em GitHub e showrooms imersivos na plataforma Spatial.
 * **Tech:** Blender, AR, GitHub Pages, Spatial.
 
 ### 🛍️ [OMEGA e-Store](https://github.com/davidmvg05/Portfolio)
-* **PT:** Criação de uma loja e-commerce premium fictícia no Shopify, focada em "fricção positiva" e estratégias de branding.
-* **EN:** *Creation of a fictitious premium e-commerce store on Shopify, focusing on "positive friction" and branding strategies.*
-* **Tech:** Shopify, E-commerce Strategy.
+Criação de uma loja e-commerce premium fictícia no Shopify, focada em "fricção positiva" e estratégias de branding.
+* **Tech:** Shopify, Estratégia de E-commerce.
 
 ### 📱 [Campanha de Cibersegurança](https://github.com/davidmvg05/Portfolio)
-* **PT:** Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre engenharia social, phishing e segurança física/digital.
-* **EN:** *Project focusing on alerting and educating mobile users about social engineering, phishing, and physical/digital security.*
-* **Tech:** Mobile Marketing, Security Awareness.
+Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre engenharia social, phishing e segurança física/digital.
+* **Tech:** Marketing Móvel, Sensibilização para a Cibersegurança.
 
 ### 🎯 Outros Trabalhos Académicos:
 * **LEGO (LE9O):** Plano estratégico de presença digital nas redes sociais em Portugal.
@@ -102,7 +96,7 @@ Aqui estão alguns dos projetos desenvolvidos durante o meu percurso de aprendiz
 
 ---
 
-## 🖥️ O Meu Setup | My Workspace Setup
+## 🖥️ O Meu Setup
 
 Como entusiasta de hardware, configurei a minha própria máquina para suportar modelagem 3D, renderização e desenvolvimento:
 
@@ -122,7 +116,7 @@ Como entusiasta de hardware, configurei a minha própria máquina para suportar 
 
 ---
 
-## 📚 Clube de Leitura | Recommended Readings
+## 📚 Clube de Leitura
 
 Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me marcaram ou que recomendo:
 
@@ -136,7 +130,7 @@ Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me
 
 ---
 
-## 📬 Contacto | Contact
+## 📬 Contacto
 
 Se queres colaborar num projeto inovador ou apenas falar de tecnologia e 3D, entra em contacto!
 
