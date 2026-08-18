@@ -17,9 +17,9 @@
 
 ## 🌌 Sobre Mim | About Me
 
-> **PT:** "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
->
-> **EN:** *"More of a marketer than a developer... but I love playing with both. 😎 I'm not a programmer. I just have ideas that are too stubborn not to be created. 🤫"*
+**PT:** "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
+
+**EN:** *"More of a marketer than a developer... but I love playing with both. 😎 I'm not a programmer. I just have ideas that are too stubborn not to be created. 🤫"*
 
 ---
 
