@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <strong>Outros idiomas / Other languages:</strong> <a href="README.en.md">English</a>
+  🌐 <strong>Other languages:</strong> <a href="README.en.md">English</a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative Developer** apaixonado por dar vida a ideias através de estratégias digitais, código criativo e experiências interativas intergalácticas.
 
 - 🚀 Focado em Marketing Digital, desenvolvimento front-end criativo e design de experiência de utilizador (UX/UI).
-- 🎨 Adoro trabalhar com modelagem 3D, realidade aumentada (AR) e criar interfaces memoráveis.
+- 🎨 Modelos 3D, realidade aumentada (AR) e criar interfaces memoráveis.
 - 📚 Leitor ávido e entusiasta de hardware (podes ver o meu setup abaixo).
 
 ---
@@ -59,11 +59,11 @@ Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative 
 
 ### 🖥️ [Alfaiate da Web](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Desenvolvimento completo do website da marca com foco total em fluxos de UX/UI, arquitetura de informação e design responsivo.
-* **Tech:** HTML5, CSS3, JavaScript, Design Responsivo.
+* **Tech:** Wordpress, HTML5, CSS, JavaScript, Design Responsivo.
 
 ### 🏡 [Casas da Paula](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Criação e otimização do website de alojamento local em Armação de Pêra. Integração personalizada do channel manager **TalkGuest** com desenvolvimento de uma barra de reservas exclusiva.
-* **Tech:** JavaScript, Integração de APIs, UX/UI.
+* **Tech:** Wordpress, Google Antigravity, Integração de APIs, UX/UI.
 
 ### 📈 [BNI Equipas](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Gestão de redes sociais, planeamento de calendários editoriais, criação gráfica e otimização de perfil digital.
@@ -80,7 +80,7 @@ Desenvolvimento de modelos 3D otimizados (como um reposapiés e outros assets), 
 * **Tech:** Blender, AR, GitHub Pages, Spatial.
 
 ### 🛍️ [OMEGA e-Store](https://github.com/davidmvg05/Portfolio)
-Criação de uma loja e-commerce premium fictícia no Shopify, focada em "fricção positiva" e estratégias de branding.
+Criação de uma loja e-commerce premium no Shopify, focada em "fricção positiva" e estratégias de branding.
 * **Tech:** Shopify, Estratégia de E-commerce.
 
 ### 📱 [Campanha de Cibersegurança](https://github.com/davidmvg05/Portfolio)
@@ -97,8 +97,6 @@ Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre en
 ---
 
 ## 🖥️ O Meu Setup
-
-Como entusiasta de hardware, configurei a minha própria máquina para suportar modelagem 3D, renderização e desenvolvimento:
 
 | Componente | Especificação |
 | :--- | :--- |
@@ -120,10 +118,8 @@ Como entusiasta de hardware, configurei a minha própria máquina para suportar 
 
 Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me marcaram ou que recomendo:
 
-- 🕵️‍♂️ *A Verdade sobre o Caso Harry Quebert* & *O Caso Alaska Sanders* (Joël Dicker)
 - 🧩 *O Enigma do Quarto 622* (Joël Dicker)
-- 🚴‍♂️ *Daqui Ali: De Portugal à África do Sul de Bicicleta* (Jorge Cristovão)
-- 🌏 *Daqui Ali: De Portugal a Singapura por Terra* (Jorge Cristovão)
+- 🕵️‍♂️ *A Verdade sobre o Caso Harry Quebert* & *O Caso Alaska Sanders* (Joël Dicker)
 - 🧠 *O Hipnotista* (Lars Kepler)
 - 🦉 *O Assassinato de Roger Ackroyd* (Agatha Christie)
 - 🌱 *Uma Vida no Nosso Planeta* (David Attenborough)
@@ -132,7 +128,7 @@ Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me
 
 ## 📬 Contacto
 
-Se queres colaborar num projeto inovador ou apenas falar de tecnologia e 3D, entra em contacto!
+Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em contacto!
 
 * **Website:** [davidmvg05.github.io/Portfolio](https://davidmvg05.github.io/Portfolio/)
 * **LinkedIn:** [David Gomes](https://linkedin.com/in/david-gomes-creative-developer)
