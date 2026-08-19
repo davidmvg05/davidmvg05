@@ -1,10 +1,6 @@
 # 👋 Hi, I'm David Gomes!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/logo_light.png" alt="David Gomes Portfolio Logo" width="200"/>
-</p>
-
-<p align="center">
   <strong>Digital Marketing Specialist & Creative Developer</strong>
 </p>
 

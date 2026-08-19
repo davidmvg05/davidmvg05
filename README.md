@@ -1,10 +1,6 @@
 # 👋 Olá, eu sou o David Gomes!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/logo_light.png" alt="David Gomes Portfolio Logo" width="200"/>
-</p>
-
-<p align="center">
   <strong>Especialista em Marketing Digital & Creative Developer</strong>
 </p>
 
