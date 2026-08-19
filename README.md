@@ -1,8 +1,11 @@
 # 👋 Olá, eu sou o David Gomes!
 
 <p align="center">
-  <img src="./public/logo_dark.png#gh-dark-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
-  <img src="./public/logo_light.png#gh-light-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/logo_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/logo_light.png">
+    <img alt="David Gomes Portfolio Logo" src="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/logo_light.png" width="200">
+  </picture>
 </p>
 
 <p align="center">
