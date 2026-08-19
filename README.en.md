@@ -1,7 +1,8 @@
 # 👋 Hi, I'm David Gomes!
 
 <p align="center">
-  <img src="./public/logo.png" alt="David Gomes Portfolio Logo" width="200"/>
+  <img src="./public/logo_dark.png#gh-dark-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
+  <img src="./public/logo_light.png#gh-light-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -27,30 +28,35 @@
 
 Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Developer** passionate about bringing ideas to life through digital strategies, creative code, and intergalactic interactive experiences.
 
-- 🚀 Focused on Digital Marketing, creative front-end development, and user experience (UX/UI) design.
-- 🎨 3D models, augmented reality (AR), and creating memorable interfaces.
+- 🚀 Specialist in Digital Marketing and digital acquisition strategies.
+- 🎨 Focused on creative front-end development and user experience (UX/UI) design.
 - 📚 Avid reader and hardware enthusiast (you can check out my PC setup below).
 
 ---
 
 ## 🛠️ Skills & Technologies
 
+**Technologies (Programming & Web):**
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- 3D & Design -->
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="ThreeJS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**Tools (Marketing, Design & Workspace):**
+<p align="left">
+  <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <!-- E-commerce & CMS -->
   <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 ---
