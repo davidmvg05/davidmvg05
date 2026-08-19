@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o David Gomes!
 
 <p align="center">
-  <img src="./public/logo_dark.png#gh-dark-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
-  <img src="./public/logo_light.png#gh-light-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
+  <img src="./public/logo_light.png#gh-dark-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
+  <img src="./public/logo_dark.png#gh-light-mode-only" alt="David Gomes Portfolio Logo" width="200"/>
 </p>
 
 <p align="center">
