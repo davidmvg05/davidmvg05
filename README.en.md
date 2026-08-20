@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://davidmvg05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-davidmvg05.github.io%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
+  <a href="https://davidmvg05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-davidmvg05%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
   <a href="https://linkedin.com/in/david-gomes-creative-developer"><img src="https://img.shields.io/badge/LinkedIn-David%20Gomes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -21,11 +21,11 @@
 
 ---
 
-Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Developer** passionate about bringing ideas to life through digital strategies, creative code, and intergalactic interactive experiences.
+Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Developer"** passionate about bringing ideas to life through digital strategies, creative code, and interactive experiences.
 
-- 🚀 Specialist in Digital Marketing and digital acquisition strategies.
-- 🎨 Focused on creative front-end development and user experience (UX/UI) design.
-- 📚 Avid reader and hardware enthusiast (you can check out my PC setup below).
+- 🚀 Digital Marketing Specialist.
+- 🎨 Focused on front-end development and user experience (UX/UI) design.
+- 📚 Avid reader and hardware enthusiast (you can check out some of the books I've read and my PC setup below).
 
 ---
 
@@ -35,10 +35,11 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Develo
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 **Tools (Marketing, Design & Workspace):**
@@ -46,12 +47,9 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and Creative Develo
   <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 ---
@@ -129,11 +127,22 @@ I really enjoy reading in my free time! Here are some of the books that have mar
 
 ## 📬 Contact
 
-If you want to collaborate on an innovative project or just talk about technology and 3D, feel free to reach out!
-
-* **Website:** [davidmvg05.github.io/Portfolio](https://davidmvg05.github.io/Portfolio/)
-* **LinkedIn:** [David Gomes](https://linkedin.com/in/david-gomes-creative-developer)
-* **GitHub:** [@davidmvg05](https://github.com/davidmvg05)
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      If you want to collaborate on an innovative project or just talk about technology, feel free to reach out!
+      <br><br>
+      <ul>
+        <li><strong>Website:</strong> <a href="https://davidmvg05.github.io/Portfolio/">davidmvg05/Portfolio</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/david-gomes-creative-developer">David Gomes</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/davidmvg05">@davidmvg05</a></li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <img src="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/qrcode-portfolio.png" alt="QR Code Portfolio" width="120" />
+    </td>
+  </tr>
+</table>
 
 ---
 <p align="center">
