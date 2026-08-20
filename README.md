@@ -21,7 +21,7 @@
 
 ---
 
-Bem-vindo ao meu cockpit! Sou um **Especialista em Marketing Digital e Creative Developer** apaixonado por dar vida a ideias através de estratégias digitais, código criativo e experiências interativas intergalácticas.
+Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative Developer"** apaixonado por dar vida a ideias através de estratégias digitais, código criativo e experiências interativas intergalácticas.
 
 - 🚀 Especialista em Marketing Digital e estratégias de captação digital.
 - 🎨 Focado em desenvolvimento front-end criativo e design de experiência de utilizador (UX/UI).
