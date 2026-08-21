@@ -13,21 +13,15 @@
   <a href="https://linkedin.com/in/david-gomes-creative-developer"><img src="https://img.shields.io/badge/LinkedIn-David%20Gomes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
-
 ## 🌌 About Me
 
 > "More of a marketer than a developer... but I love playing with both. 😎 I'm not a programmer. I just have ideas that are too stubborn not to be created. 🤫"
 
----
-
 Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Developer"** passionate about bringing ideas to life through digital strategies, creative code, and interactive experiences.
 
 - 🚀 Digital Marketing Specialist.
-- 🎨 Focused on front-end development and user experience (UX/UI) design.
+- 🎨 Focused on front-end development and UX/UI.
 - 📚 Avid reader and hardware enthusiast (you can check out some of the books I've read and my PC setup below).
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -52,8 +46,6 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
-
 ## 💼 Professional Projects
 
 ### 🖥️ [Alfaiate da Web](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
@@ -62,13 +54,11 @@ Complete development of the brand's website focusing on UX/UI flows, information
 
 ### 🏡 [Casas da Paula](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Creation and optimization of the local lodging website in Armação de Pêra. Custom integration of the **TalkGuest** channel manager with the development of an exclusive booking bar.
-* **Tech:** Wordpress, Google Antigravity, Integração de APIs, UX/UI.
+* **Tech:** Wordpress, Google Antigravity, Integration of APIs, UX/UI.
 
 ### 📈 [BNI Equipas](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
 Social media management, editorial calendar planning, graphic creation, and digital profile optimization.
 * **Tech:** Social Media Strategy, Graphic Design.
-
----
 
 ## 🎓 Academic Works
 
@@ -93,8 +83,6 @@ Project focused on alerting and educating mobile device users about social engin
 * **StrongBulk:** Structured email marketing campaigns.
 * **EDP, Rebottle, Gota Salgada, Adega Socalcos, A Padaria Portuguesa:** Strategic marketing analysis, Google Ads campaigns, and metrics evaluation.
 
----
-
 ## 🖥️ My Workspace Setup
 
 | Component | Specification |
@@ -107,11 +95,9 @@ Project focused on alerting and educating mobile device users about social engin
 | **SSD NVMe (Main)** | WD_BLACK SN850 NVMe SSD |
 | **SSD NVMe (Secondary)** | Samsung 970 Evo |
 | **SSD SATA** | Crucial 2TB |
-| **HDD** | Western Digital 2TB |
+| **HDD** | Western Digital 2+1 TB |
 | **PSU** | Corsair 550W |
 | **Case** | Cooler Master MB510L |
-
----
 
 ## 📚 Book Club / Recommended Readings
 
@@ -122,8 +108,6 @@ I really enjoy reading in my free time! Here are some of the books that have mar
 - 🧠 *The Hypnotist* (Lars Kepler)
 - 🦉 *The Murder of Roger Ackroyd* (Agatha Christie)
 - 🌱 *A Life on Our Planet* (David Attenborough)
-
----
 
 ## 📬 Contact
 

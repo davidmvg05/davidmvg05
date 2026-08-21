@@ -13,21 +13,15 @@
   <a href="https://linkedin.com/in/david-gomes-creative-developer"><img src="https://img.shields.io/badge/LinkedIn-David%20Gomes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
-
 ## 🌌 Sobre Mim
 
 > "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
 
----
-
 Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative Developer"** apaixonado por dar vida a ideias através de estratégias digitais, código criativo e experiências interativas.
 
 - 🚀 Especialista em Marketing Digital.
-- 🎨 Focado em desenvolvimento front-end e design de experiência de utilizador (UX/UI).
+- 🎨 Focado em desenvolvimento front-end e UX/UI.
 - 📚 Leitor ávido e entusiasta de hardware (podes ver alguns dos livros que li e o meu setup abaixo).
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -52,7 +46,6 @@ Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative De
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
 
 ## 💼 Projetos Profissionais
 
@@ -68,7 +61,6 @@ Criação e otimização do website de alojamento local em Armação de Pêra. I
 Gestão de redes sociais, planeamento de calendários editoriais, criação gráfica e otimização de perfil digital.
 * **Tech:** Estratégia de Redes Sociais, Design Gráfico.
 
----
 
 ## 🎓 Trabalhos Académicos
 
@@ -93,8 +85,6 @@ Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre en
 * **StrongBulk:** Campanhas de e-mail marketing estruturadas.
 * **EDP, Rebottle, Gota Salgada, Adega Socalcos, A Padaria Portuguesa:** Análises estratégicas de marketing, campanhas Google Ads e avaliação de métricas.
 
----
-
 ## 🖥️ O Meu Setup
 
 | Componente | Especificação |
@@ -107,11 +97,10 @@ Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre en
 | **SSD NVMe (Principal)** | WD_BLACK SN850 NVMe SSD |
 | **SSD NVMe (Secundário)** | Samsung 970 Evo |
 | **SSD SATA** | Crucial 2TB |
-| **HDD** | Western Digital 2TB |
+| **HDD** | Western Digital 2+1 TB |
 | **PSU** | Corsair 550W |
 | **Caixa** | Cooler Master MB510L |
 
----
 
 ## 📚 Clube de Leitura
 
@@ -122,8 +111,6 @@ Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me
 - 🧠 *O Hipnotista* (Lars Kepler)
 - 🦉 *O Assassinato de Roger Ackroyd* (Agatha Christie)
 - 🌱 *Uma Vida no Nosso Planeta* (David Attenborough)
-
----
 
 ## 📬 Contacto
 
