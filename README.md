@@ -114,22 +114,11 @@ Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me
 
 ## 📬 Contacto
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em contacto!
-      <br><br>
-      <ul>
-        <li><strong>Website:</strong> <a href="https://davidmvg05.github.io/Portfolio/">davidmvg05/Portfolio</a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/david-gomes-creative-developer">David Gomes</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/davidmvg05">@davidmvg05</a></li>
-      </ul>
-    </td>
-    <td align="center" valign="middle" width="30%">
-      <img src="https://raw.githubusercontent.com/davidmvg05/davidmvg05/main/public/qrcode-portfolio.png" alt="QR Code Portfólio" width="120" />
-    </td>
-  </tr>
-</table>
+Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em contacto!
+
+* **Website:** [davidmvg05/Portfolio](https://davidmvg05.github.io/Portfolio/)
+* **LinkedIn:** [David Gomes](https://linkedin.com/in/david-gomes-creative-developer)
+* **GitHub:** [@davidmvg05](https://github.com/davidmvg05)
 
 ---
 <p align="center">
