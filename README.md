@@ -112,6 +112,6 @@ Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em
 ## My Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&theme=transparent&locale=pt-br" alt="GitHub Statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&theme=transparent&locale=pt-br" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Most Used Languages" />
 </p>

@@ -112,6 +112,6 @@ If you want to collaborate on an innovative project or just talk about technolog
 ## My Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&theme=transparent" alt="GitHub Statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&theme=transparent" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
 </p>
