@@ -107,7 +107,7 @@ Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em
   <i>"🌌 Código limpo, imaginação sem limites."</i>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ## My Statistics
 
