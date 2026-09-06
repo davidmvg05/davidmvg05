@@ -43,33 +43,23 @@ Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative De
 
 ## 💼 Projetos Profissionais
 
-### 🖥️ [Alfaiate da Web](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-Desenvolvimento completo do website da marca com foco total em fluxos de UX/UI, arquitetura de informação e design responsivo.
-* **Tech:** Wordpress, HTML5, CSS, JavaScript, Design Responsivo.
-
-### 🏡 [Casas da Paula](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-Criação e otimização do website de alojamento local em Armação de Pêra. Integração personalizada do channel manager **TalkGuest** com desenvolvimento de uma barra de reservas exclusiva.
-* **Tech:** Wordpress, Google Antigravity, Integração de APIs, UX/UI.
-
-### 📈 [BNI Equipas](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-Gestão de redes sociais, planeamento de calendários editoriais, criação gráfica e otimização de perfil digital.
-* **Tech:** Estratégia de Redes Sociais, Design Gráfico.
+* **Alfaiate da Web:** Desenvolvimento completo do website da marca com foco total em fluxos de UX/UI, arquitetura de informação e design responsivo.
+  * **Tech:** Wordpress, HTML5, CSS, JavaScript, Design Responsivo.
+* **Casas da Paula:** Criação e otimização do website de alojamento local em Armação de Pêra. Integração personalizada do channel manager **TalkGuest** com desenvolvimento de uma barra de reservas exclusiva.
+  * **Tech:** Wordpress, Google Antigravity, Integração de APIs, UX/UI.
+* **BNI Equipas:** Gestão de redes sociais, planeamento de calendários editoriais, criação gráfica e otimização de perfil digital.
+  * **Tech:** Estratégia de Redes Sociais, Design Gráfico.
 
 ## 🎓 Trabalhos Académicos
 
 Aqui estão alguns dos projetos desenvolvidos durante o meu percurso de aprendizagem:
 
-### 🕶️ [Omega 3D & Metaverso](https://github.com/davidmvg05/Projeto-AR)
-Desenvolvimento de modelos 3D otimizados (como um reposapiés e outros assets), experiências interativas de Realidade Aumentada (AR) integradas em GitHub e showrooms imersivos na plataforma Spatial.
-* **Tech:** Blender, AR, GitHub Pages, Spatial.
-
-### 🛍️ [OMEGA e-Store](https://github.com/davidmvg05/Portfolio)
-Criação de uma loja e-commerce premium no Shopify, focada em "fricção positiva" e estratégias de branding.
-* **Tech:** Shopify, Estratégia de E-commerce.
-
-### 📱 [Campanha de Cibersegurança](https://github.com/davidmvg05/Portfolio)
-Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre engenharia social, phishing e segurança física/digital.
-* **Tech:** Marketing Móvel, Sensibilização para a Cibersegurança.
+* **Omega 3D & Metaverso:** Desenvolvimento de modelos 3D otimizados (como um reposapiés e outros assets), experiências interativas de Realidade Aumentada (AR) integradas em GitHub e showrooms imersivos na plataforma Spatial.
+  * **Tech:** Blender, AR, GitHub Pages, Spatial.
+* **OMEGA e-Store:** Criação de uma loja e-commerce premium no Shopify, focada em "fricção positiva" e estratégias de branding.
+  * **Tech:** Shopify, Estratégia de E-commerce.
+* **Campanha de Cibersegurança:** Projeto focado em alertar e educar utilizadores de dispositivos móveis sobre engenharia social, phishing e segurança física/digital.
+  * **Tech:** Marketing Móvel, Sensibilização para a Cibersegurança.
 
 ### 🎯 Outros Trabalhos Académicos:
 * **LEGO (LE9O):** Plano estratégico de presença digital nas redes sociais em Portugal.
@@ -119,13 +109,9 @@ Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📊 As Minhas Estatísticas</h2>
+## My Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&locale=pt-br" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=davidmvg05&range=last_7_days" alt="Estatísticas do WakaTime (Últimos 7 dias)" />
+  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&theme=transparent&locale=pt-br" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&theme=transparent&locale=pt-br" alt="Most Used Languages" />
 </p>

@@ -43,33 +43,23 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 
 ## 💼 Professional Projects
 
-### 🖥️ [Alfaiate da Web](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-Complete development of the brand's website focusing on UX/UI flows, information architecture, and responsive design.
-* **Tech:** Wordpress, HTML5, CSS, JavaScript, Design Responsivo.
-
-### 🏡 [Casas da Paula](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-Creation and optimization of the local lodging website in Armação de Pêra. Custom integration of the **TalkGuest** channel manager with the development of an exclusive booking bar.
-* **Tech:** Wordpress, Google Antigravity, Integration of APIs, UX/UI.
-
-### 📈 [BNI Equipas](https://github.com/davidmvg05/Portfolio/tree/main/src/components)
-Social media management, editorial calendar planning, graphic creation, and digital profile optimization.
-* **Tech:** Social Media Strategy, Graphic Design.
+* **Alfaiate da Web:** Complete development of the brand's website focusing on UX/UI flows, information architecture, and responsive design.
+  * **Tech:** Wordpress, HTML5, CSS, JavaScript, Design Responsivo.
+* **Casas da Paula:** Creation and optimization of the local lodging website in Armação de Pêra. Custom integration of the **TalkGuest** channel manager with the development of an exclusive booking bar.
+  * **Tech:** Wordpress, Google Antigravity, Integration of APIs, UX/UI.
+* **BNI Equipas:** Social media management, editorial calendar planning, graphic creation, and digital profile optimization.
+  * **Tech:** Social Media Strategy, Graphic Design.
 
 ## 🎓 Academic Works
 
 Here are some of the projects developed during my academic journey:
 
-### 🕶️ [Omega 3D & Metaverse](https://github.com/davidmvg05/Projeto-AR)
-Development of optimized 3D models (such as an ottoman and other assets), interactive Augmented Reality (AR) experiences hosted on GitHub, and immersive showrooms on the Spatial metaverse platform.
-* **Tech:** Blender, AR, GitHub Pages, Spatial.
-
-### 🛍️ [OMEGA e-Store](https://github.com/davidmvg05/Portfolio)
-Creation of a premium fictitious e-commerce store on Shopify, focusing on "positive friction" and branding strategies.
-* **Tech:** Shopify, E-commerce Strategy.
-
-### 📱 [Cybersecurity Campaign](https://github.com/davidmvg05/Portfolio)
-Project focused on alerting and educating mobile device users about social engineering, phishing, and physical/digital security.
-* **Tech:** Mobile Marketing, Cybersecurity Awareness.
+* **Omega 3D & Metaverse:** Development of optimized 3D models (such as an ottoman and other assets), interactive Augmented Reality (AR) experiences hosted on GitHub, and immersive showrooms on the Spatial metaverse platform.
+  * **Tech:** Blender, AR, GitHub Pages, Spatial.
+* **OMEGA e-Store:** Creation of a premium fictitious e-commerce store on Shopify, focusing on "positive friction" and branding strategies.
+  * **Tech:** Shopify, E-commerce Strategy.
+* **Cybersecurity Campaign:** Project focused on alerting and educating mobile device users about social engineering, phishing, and physical/digital security.
+  * **Tech:** Mobile Marketing, Cybersecurity Awareness.
 
 ### 🎯 Other Academic Projects:
 * **LEGO (LE9O):** Strategic plan for establishing LEGO's digital presence on social media in Portugal.
@@ -119,13 +109,9 @@ If you want to collaborate on an innovative project or just talk about technolog
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📊 My Statistics</h2>
+## My Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true" alt="GitHub Statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=davidmvg05&range=last_7_days" alt="WakaTime Statistics (Last 7 days)" />
+  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true&theme=transparent" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact&theme=transparent" alt="Most Used Languages" />
 </p>
