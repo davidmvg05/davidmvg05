@@ -107,7 +107,7 @@ If you want to collaborate on an innovative project or just talk about technolog
   <i>"🌌 Clean code, limitless imagination."</i>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ## My Statistics
 
