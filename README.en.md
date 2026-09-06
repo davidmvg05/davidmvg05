@@ -1,11 +1,11 @@
-# 👋 Hi, I'm David Gomes!
+<p align="right">
+  <a href="README.md">PT</a> | <strong>EN</strong>
+</p>
+
+<h1 align="center">👋 Hi, I'm David Gomes!</h1>
 
 <p align="center">
   <strong>Digital Marketing Specialist & Creative Developer</strong>
-</p>
-
-<p align="center">
-  🌐 <strong>Other languages:</strong> <a href="README.md">Português</a>
 </p>
 
 <p align="center">
@@ -25,25 +25,20 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 
 ## 🛠️ Skills & Technologies
 
-**Technologies (Programming & Web):**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,wordpress,figma,vscode,github" alt="Skills & Technologies" />
+  </a>
 </p>
 
-**Tools (Marketing, Design & Workspace):**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
   <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
+  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 ## 💼 Professional Projects
@@ -120,4 +115,17 @@ If you want to collaborate on an innovative project or just talk about technolog
 ---
 <p align="center">
   <i>"🌌 Clean code, limitless imagination."</i>
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<h2 align="center">📊 My Statistics</h2>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=davidmvg05&show_icons=true" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidmvg05&layout=compact" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=davidmvg05&range=last_7_days" alt="WakaTime Statistics (Last 7 days)" />
 </p>
