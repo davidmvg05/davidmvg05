@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://davidmvg05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-davidmvg05%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website do Portfólio" /></a>
+  <a href="https://davidgomes-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-davidmvg05%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website do Portfólio" /></a>
   <a href="https://linkedin.com/in/david-gomes-creative-developer"><img src="https://img.shields.io/badge/LinkedIn-David%20Gomes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
