@@ -25,20 +25,79 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,wordpress,figma,vscode,github" alt="Skills & Technologies" />
-  </a>
+### 🔹 Option 1: 100% Badges (Shields.io)
+
+**Web Development & UI/UX:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<p align="center">
+**Social Media & Content Creation:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
   <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+**Digital Marketing & Web Analytics:**
+<p align="left">
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
   <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+</p>
+
+**Platforms, Productivity & Automation:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+---
+
+### 🔹 Option 2: Hybrid (SkillIcons + Badges)
+
+**Web Development & UI/UX:**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,wordpress,figma,vscode,github,git" alt="Web Dev" /></a>
+  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+</p>
+
+**Social Media & Content Creation:**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=instagram,linkedin" alt="Social Media" /></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+**Digital Marketing & Web Analytics:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+</p>
+
+**Platforms, Productivity & Automation:**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,powershell,obsidian" alt="Platforms" /></a>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ## 💼 Professional Projects
@@ -49,24 +108,6 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
   * **Tech:** Wordpress, Google Antigravity, Integration of APIs, UX/UI.
 * **BNI Equipas:** Social media management, editorial calendar planning, graphic creation, and digital profile optimization.
   * **Tech:** Social Media Strategy, Graphic Design.
-
-## 🎓 Academic Works
-
-Here are some of the projects developed during my academic journey:
-
-* **Omega 3D & Metaverse:** Development of optimized 3D models (such as an ottoman and other assets), interactive Augmented Reality (AR) experiences hosted on GitHub, and immersive showrooms on the Spatial metaverse platform.
-  * **Tech:** Blender, AR, GitHub Pages, Spatial.
-* **OMEGA e-Store:** Creation of a premium fictitious e-commerce store on Shopify, focusing on "positive friction" and branding strategies.
-  * **Tech:** Shopify, E-commerce Strategy.
-* **Cybersecurity Campaign:** Project focused on alerting and educating mobile device users about social engineering, phishing, and physical/digital security.
-  * **Tech:** Mobile Marketing, Cybersecurity Awareness.
-
-### 🎯 Other Academic Projects:
-* **LEGO (LE9O):** Strategic plan for establishing LEGO's digital presence on social media in Portugal.
-* **Mimosa:** Strategic market research for the launch of a new liquid yogurt segment with fruit pieces.
-* **Shifter:** Structured on-page SEO audit and organic action plan.
-* **StrongBulk:** Structured email marketing campaigns.
-* **EDP, Rebottle, Gota Salgada, Adega Socalcos, A Padaria Portuguesa:** Strategic marketing analysis, Google Ads campaigns, and metrics evaluation.
 
 ## 🖥️ My Workspace Setup
 
