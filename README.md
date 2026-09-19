@@ -35,7 +35,6 @@ Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative De
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/github/_/white" alt="GitHub" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Antigravity" width="40" height="40" />
 </p>
 
 **Redes Sociais & Criação de Conteúdo:**
