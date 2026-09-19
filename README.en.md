@@ -25,79 +25,43 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 
 ## 🛠️ Skills & Technologies
 
-### 🔹 Option 1: 100% Badges (Shields.io)
-
 **Web Development & UI/UX:**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/wordpress" alt="WordPress" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/github/_/white" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Antigravity" width="40" height="40" />
 </p>
 
 **Social Media & Content Creation:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
-  <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/tiktok/_/white" alt="TikTok" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/meta" alt="Meta Business Suite" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/googleads" alt="Google Ads" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
 </p>
 
 **Digital Marketing & Web Analytics:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://cdn.simpleicons.org/googleanalytics" alt="Google Analytics" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/googletagmanager" alt="Google Tag Manager" width="40" height="40" />
 </p>
 
 **Platforms, Productivity & Automation:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
----
-
-### 🔹 Option 2: Hybrid (SkillIcons + Badges)
-
-**Web Development & UI/UX:**
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,wordpress,figma,vscode,github,git" alt="Web Dev" /></a>
-  <img src="https://img.shields.io/badge/Shopify-7A9A3C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
-
-**Social Media & Content Creation:**
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=instagram,linkedin" alt="Social Media" /></a>
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
-  <img src="https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Business Suite" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
-**Digital Marketing & Web Analytics:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
-</p>
-
-**Platforms, Productivity & Automation:**
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,powershell,obsidian" alt="Platforms" /></a>
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/davinciresolve/_/white" alt="DaVinci Resolve" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/obsidian" alt="Obsidian" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40" />
 </p>
 
 ## 💼 Professional Projects
