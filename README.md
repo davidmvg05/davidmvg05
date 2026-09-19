@@ -139,7 +139,7 @@ Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me
 
 Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em contacto!
 
-* **Website:** [davidmvg05/Portfolio](https://davidmvg05.github.io/Portfolio/)
+* **Website:** [davidmvg05/Portfolio](https://davidgomes-portfolio.vercel.app/)
 * **LinkedIn:** [David Gomes](https://linkedin.com/in/david-gomes-creative-developer)
 * **GitHub:** [@davidmvg05](https://github.com/davidmvg05)
 

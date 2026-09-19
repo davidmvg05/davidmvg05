@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://davidmvg05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-davidmvg05%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
+  <a href="https://davidgomes-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-davidmvg05%2FPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" /></a>
   <a href="https://linkedin.com/in/david-gomes-creative-developer"><img src="https://img.shields.io/badge/LinkedIn-David%20Gomes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -139,7 +139,7 @@ I really enjoy reading in my free time! Here are some of the books that have mar
 
 If you want to collaborate on an innovative project or just talk about technology, feel free to reach out!
 
-* **Website:** [davidmvg05/Portfolio](https://davidmvg05.github.io/Portfolio/)
+* **Website:** [davidmvg05/Portfolio](https://davidgomes-portfolio.vercel.app/)
 * **LinkedIn:** [David Gomes](https://linkedin.com/in/david-gomes-creative-developer)
 * **GitHub:** [@davidmvg05](https://github.com/davidmvg05)
 
