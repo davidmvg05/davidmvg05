@@ -93,7 +93,7 @@ Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative De
 Gosto muito de ler nas minhas horas livres! Aqui estão alguns dos livros que me marcaram ou que recomendo:
 
 - 🧩 *O Enigma do Quarto 622* (Joël Dicker)
-- 🕵️‍♂️ *A Verdade sobre o Caso Harry Quebert* & *O Caso Alaska Sanders* (Joël Dicker)
+- 🕵️‍♂️ *A Verdade sobre o Caso Harry Quebert* (Joël Dicker)
 - 🧠 *O Hipnotista* (Lars Kepler)
 - 🦉 *O Assassinato de Roger Ackroyd* (Agatha Christie)
 - 🌱 *Uma Vida no Nosso Planeta* (David Attenborough)
