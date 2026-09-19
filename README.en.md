@@ -93,7 +93,7 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 I really enjoy reading in my free time! Here are some of the books that have marked me or that I recommend:
 
 - 🧩 *The Enigma of Room 622* (Joël Dicker)
-- 🕵️‍♂️ *The Truth About the Harry Quebert Affair* & *The Alaska Sanders Case* (Joël Dicker)
+- 🕵️‍♂️ *The Truth About the Harry Quebert Affair* (Joël Dicker)
 - 🧠 *The Hypnotist* (Lars Kepler)
 - 🦉 *The Murder of Roger Ackroyd* (Agatha Christie)
 - 🌱 *A Life on Our Planet* (David Attenborough)
