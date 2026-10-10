@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o David Gomes!</h1>
 
 <p align="center">
-  <strong>Especialista em Marketing Digital & Creative Developer</strong>
+  <strong>Especialista em Marketing Digital</strong>
 </p>
 
 <p align="center">
