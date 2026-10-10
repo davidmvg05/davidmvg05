@@ -91,7 +91,7 @@ Se queres colaborar num projeto inovador ou apenas falar de tecnologia, entra em
 
 ---
 <p align="center">
-  <i>"🌌 Código limpo, imaginação sem limites."</i>
+  <i>"Código limpo, imaginação sem limites."</i>
 </p>
 
 <br><br>
