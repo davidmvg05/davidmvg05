@@ -58,7 +58,6 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/davinciresolve/_/white" alt="DaVinci Resolve" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/obsidian" alt="Obsidian" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40" />
 </p>
