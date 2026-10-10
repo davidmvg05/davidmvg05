@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm David Gomes!</h1>
 
 <p align="center">
-  <strong>Digital Marketing Specialist & Creative Developer</strong>
+  <strong>Digital Marketing Specialist</strong>
 </p>
 
 <p align="center">
