@@ -21,7 +21,7 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 
 - 🚀 Digital Marketing Specialist.
 - 🎨 Focused on front-end development and UX/UI.
-- 📚 Avid reader and hardware enthusiast (you can check out some of the books I've read and my PC setup below).
+- 📚 Avid reader.
 
 ## 🛠️ Skills & Technologies
 
