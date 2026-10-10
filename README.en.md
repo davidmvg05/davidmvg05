@@ -71,22 +71,6 @@ Welcome to my cockpit! I am a **Digital Marketing Specialist and "Creative Devel
 * **BNI Equipas:** Social media management, editorial calendar planning, graphic creation, and digital profile optimization.
   * **Tech:** Social Media Strategy, Graphic Design.
 
-## 🖥️ My Workspace Setup
-
-| Component | Specification |
-| :--- | :--- |
-| **CPU** | AMD Ryzen 5 5600X |
-| **GPU** | ASUS GTX 1660 Ti |
-| **RAM** | Corsair 16GB |
-| **Motherboard** | ASUS ROG Strix B450-F Gaming II |
-| **Cooler** | Cooler Master Hyper 212 |
-| **SSD NVMe (Main)** | WD_BLACK SN850 NVMe SSD |
-| **SSD NVMe (Secondary)** | Samsung 970 Evo |
-| **SSD SATA** | Crucial 2TB |
-| **HDD** | Western Digital 2+1 TB |
-| **PSU** | Corsair 550W |
-| **Case** | Cooler Master MB510L |
-
 ## 📚 Book Club / Recommended Readings
 
 I really enjoy reading in my free time! Here are some of the books that have marked me or that I recommend:
