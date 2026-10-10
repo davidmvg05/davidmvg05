@@ -21,7 +21,7 @@ Bem-vindo ao meu cockpit! Sou **Especialista em Marketing Digital e "Creative De
 
 - 🚀 Especialista em Marketing Digital.
 - 🎨 Focado em desenvolvimento front-end e UX/UI.
-- 📚 Leitor ávido e entusiasta de hardware (podes ver alguns dos livros que li e o meu setup abaixo).
+- 📚 Leitor ávido.
 
 ## 🛠️ Tecnologias & Ferramentas
 
