@@ -91,7 +91,7 @@ If you want to collaborate on an innovative project or just talk about technolog
 
 ---
 <p align="center">
-  <i>"🌌 Clean code, limitless imagination."</i>
+  <i>"Clean code, limitless imagination."</i>
 </p>
 
 <br><br>
