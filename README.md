@@ -4,11 +4,13 @@
 
 <h1 align="left">Olá, eu sou o David Gomes! 👋</h1>
 
-<p align="left">
-  <img src="assets/avatar_hologram.gif" alt="David Gomes Holograma" width="180" />
+<p align="center">
+  <img src="assets/avatar_hologram.gif" alt="David Gomes" width="220" />
 </p>
 
-> "Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"
+<p align="center">
+  <em>"Mais marketer do que developer… mas adoro brincar aos dois. 😎 Não sou programador. Só tenho ideias demasiado teimosas para não as criar. 🤫"</em>
+</p>
 
 ## 💼 Projetos
 
