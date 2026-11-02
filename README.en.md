@@ -5,7 +5,7 @@
 <h1 align="left">Hi, I'm David Gomes! 👋</h1>
 
 <p align="center">
-  <img src="assets/avatar_hologram.gif" alt="David Gomes" width="220" />
+  <img src="assets/avatar_hologram.gif" alt="David Gomes" width="100%" />
 </p>
 
 <p align="center">
