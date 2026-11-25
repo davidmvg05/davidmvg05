@@ -27,7 +27,7 @@
 
 | 🌐 Website | 💼 LinkedIn | 🐙 GitHub |
 | :---: | :---: | :---: |
-| [davidmvg05/Portfolio](https://davidgomes-portfolio.vercel.app/) | [David Gomes](https://linkedin.com/in/david-gomes-creative-developer) | [Davidmvg05](https://github.com/davidmvg05) |
+| [davidgomes-portfolio](https://davidgomes-portfolio.vercel.app/) | [David Gomes](www.linkedin.com/in/david-gomes-marketing) | [Davidmvg05](https://github.com/davidmvg05) |
 
 ## 📊 My Statistics
 
